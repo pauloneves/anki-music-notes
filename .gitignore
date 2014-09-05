@@ -52,3 +52,12 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# LilyPond
+*.texi
+*.tex
+*.eps
+*.count
+
+# Editors
+*~
+
