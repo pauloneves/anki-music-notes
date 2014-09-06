@@ -49,6 +49,10 @@ coverage.xml
 *.log
 *.pot
 
+#transformed music
+audio-mp3/*
+audio-notes/*
+
 # Sphinx documentation
 docs/_build/
 

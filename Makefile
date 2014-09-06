@@ -1,0 +1,4 @@
+all:
+	convert-mp3
+
+        
