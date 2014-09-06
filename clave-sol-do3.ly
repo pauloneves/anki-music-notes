@@ -5,6 +5,6 @@
   \new Staff \with {
 \remove "Time_signature_engraver"
 } 
-   c'''
+   c'
 }
   
